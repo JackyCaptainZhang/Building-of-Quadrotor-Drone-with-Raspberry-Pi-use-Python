@@ -9,7 +9,7 @@ You can see the **folder named "Basic Driver"**, which contains the **basic driv
 
 **The **"MAIN!"****  file is the most important part and contains all the things we needed for the drone and running this file only is enough for this project!!(**you can download the MAIN! file only and you can get all the things I have mentioned above!**) There are **four classes** in this file (four claases in one file beacuse the editor I used on the RPI do not support importing multiple customized class files....) : **Ultrasonic sensor, MPU6050, motor and PIDs. Ultrasonic sensor and MPU6050 provide the driver and data process.** **Motor provides the basic motor control driver and defines three basic motions for the drone: verticle(the height control), pitch(forward and backward control) and the roll(Left and right control)** {More actions may be defined in the future...}. **PIDs provide the PID control in three axixs: height, pitch and roll!** **If you want to change the PID target value and parameters, simplly call the corresponded PID control methods and change the parameters in the bracket. You can see the name of each parameters clearly!!**
 
-In the last **main session** you can see that there are four executive parts: Drone1 to Drone4. **Drone 1, 2 and 3 is for testing purpose and only turn on the partial PIDs. Drone4 turn on the complete PID control!!** 
+In the last **main session** in the "MAIN!" file, you can see that there are four executive main parts: Drone1 to Drone4. **Drone 1, 2 and 3 is for testing purpose and only turn on the partial PIDs. Drone4 turn on the complete PID control!!** 
 
 Running this file, you can see the figure is plotted real time. The Y axis is the percentage of throttle from 0 to 100. The X axis is the time.
 
