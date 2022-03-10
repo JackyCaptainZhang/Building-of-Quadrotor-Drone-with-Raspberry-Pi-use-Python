@@ -18,7 +18,10 @@ The pin connections for my drone is as below. You can use the same pin connectio
 ![image](https://user-images.githubusercontent.com/55009904/157687073-dcc0d62b-cf4f-4803-b776-f94a0f152ff0.png)
 
 Enjoy and have a nice day!!
+Scan the QR code to see the blogs for more process details for this project!
+![image](https://user-images.githubusercontent.com/55009904/157690444-42f65ff1-aab7-445b-9677-789917fbb77b.png)
 
 Any questions, just leave comments!  :))
 
+Best
 Jacky Captain
