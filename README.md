@@ -1,7 +1,7 @@
 # Building-of-Quadrotor-Drone-with-Raspberry-Pi-use-Python
 WELCOME!!!!
 
-This project build the basic drone PIDs stable control systems based on the raspberry pi 4B+ hardware together with a MPU6050 gyroscope, an ultrasonic sensor, four electric motor speed controllers and four brushless motors.
+This project builds the basic drone PIDs stable control systems based on the raspberry pi 4B+ hardware together with a MPU6050 gyroscope, an ultrasonic sensor, four electric motor speed controllers and four brushless motors.
 
 
 This project aims to keep the drone at the specific set height and keep postures stable all the time. To do this, a MPU6050 gyroscope and an ultrasonic sensor will be needed. The block doagram of the control system is as follows:
