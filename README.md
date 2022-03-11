@@ -15,7 +15,7 @@ In the last **main session** in the "MAIN!" file, you can see that there are fou
 
 **HOW TO RUN THE CODE:**
 
-**To Run this file, please run the command "sudo pigpoid" in the linux terminal everytime when starting the linux system! Than running the "MAIN!" file, You can see the figure is plotted real time. The Y axis is the percentage of throttle from 0 to 100. The X axis is the time!**
+**To run this file, please run the command "sudo pigpoid" in the linux terminal everytime when starting the linux system! Than running the "MAIN!" file, You can see the figure is plotted real time. The Y axis is the percentage of throttle from 0 to 100. The X axis is the time!**
 
 You can change all the pins number at the beginning! They are all global variables.
 The pin connections for my drone is as below. You can use the same pin connections for convenience. 
